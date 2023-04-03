@@ -1,1 +1,1 @@
-# Graph-Neural-Network-Study-Notes
+# Graph Neural Network Study Notes
